@@ -16,9 +16,9 @@ function Message(props: MessagePropsType) {
             <div className={s.angle}/>
 
             <div className={s.content}>
-                <div>{props.name}</div>
-                <div>{props.message}</div>
-                <div>{props.time}</div>
+                <div className={s.name}>{props.name}</div>
+                <div className={s.text}>{props.message}</div>
+                <div className={s.time}>{props.time}</div>
             </div>
 
         </div>

@@ -1,5 +1,9 @@
 .App {
-
     background-color: rgb(134, 82, 184);
-
 }
+h1, h2 {
+    color: #bbffbb;
+    margin: 20px;
+}
+
+
