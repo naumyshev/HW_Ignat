@@ -1,6 +1,7 @@
 import React, {useState} from 'react'
 import Affairs from './Affairs'
 
+
 // types
 export type AffairPriorityType = any // need to fix any
 export type AffairType = any // need to fix any
